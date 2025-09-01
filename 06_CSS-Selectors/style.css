@@ -1,0 +1,42 @@
+/* universal selector  */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* class selector  */
+.content{
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.8;
+}
+
+.BRimg{
+    width: 100%;
+}
+
+.features{
+    font-weight: 700;
+}
+
+ol{
+    line-height: 1.8;
+}
+
+/* id selector  */
+#footer{
+    text-align: center;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+/* attribute selector */
+[id]{
+    background-color: rgb(174, 236, 255);
+}
+
+/* pseudo selector  */
+h1:hover{
+    color: rgb(122, 102, 248);
+}
