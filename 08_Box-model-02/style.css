@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+p {
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    box-sizing: border-box;
+    border: 5px solid;
+    margin: 25px;
+}
+
+.html{
+    display: flex;
+    background-color:aqua;
+    padding: 15px;
+    height: 200px;
+    width: 300px;
+}
